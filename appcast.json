@@ -1,0 +1,12 @@
+{
+    "channels": {
+        "stable": {
+            "version": "1.0.8",
+            "notes": "Dashboard update: clearer returning visitors, pages per visitor, and always-visible release notes in Settings.",
+            "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
+            "downloads": {
+                "update": "https://www.doobox.co.uk/sparkle/doostats/Updates/DooStats-Update-1.0.8.zip"
+            }
+        }
+    }
+}
