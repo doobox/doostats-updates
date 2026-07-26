@@ -1,11 +1,11 @@
 {
     "channels": {
         "stable": {
-            "version": "1.0.8",
-            "notes": "Dashboard update: clearer returning visitors, pages per visitor, and always-visible release notes in Settings.",
+            "version": "1.0.9",
+            "notes": "Fixes Check for updates on hosts that were blocked by the old feed, and always opens the public download page for updates.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
-                "update": "https://www.doobox.co.uk/sparkle/doostats/Updates/DooStats-Update-1.0.8.zip"
+                "update": "https://www.doobox.co.uk/sparkle/doostats/Updates/DooStats-Update-1.0.9.zip"
             }
         }
     }
