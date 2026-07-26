@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.0",
-            "notes": "Install updates from Settings when your host allows it \u2014 Download update remains as a fallback.",
+            "version": "1.2.1",
+            "notes": "Clearer Updates card with a single action, plus an account-menu hover fix.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
