@@ -1,11 +1,11 @@
 {
     "channels": {
         "stable": {
-            "version": "1.0.9",
-            "notes": "Fixes Check for updates on hosts that were blocked by the old feed, and always opens the public download page for updates.",
+            "version": "1.1.0",
+            "notes": "Optional weekly email summary in Settings \u2192 Reports \u2014 no cron setup required.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
-                "update": "https://www.doobox.co.uk/sparkle/doostats/Updates/DooStats-Update-1.0.9.zip"
+                "update": "https://www.doobox.co.uk/sparkle/doostats/Updates/DooStats-Update-1.1.0.zip"
             }
         }
     }
