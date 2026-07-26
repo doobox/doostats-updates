@@ -1,11 +1,11 @@
 {
     "channels": {
         "stable": {
-            "version": "1.1.0",
-            "notes": "Optional weekly email summary in Settings \u2192 Reports \u2014 no cron setup required.",
+            "version": "1.1.1",
+            "notes": "Send test report emails without the hourly limit, plus a small account-menu polish.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
-                "update": "https://www.doobox.co.uk/sparkle/doostats/Updates/DooStats-Update-1.1.0.zip"
+                "update": "https://www.doobox.co.uk/sparkle/doostats/Updates/DooStats-Update-1.1.1.zip"
             }
         }
     }
