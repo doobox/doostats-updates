@@ -1,11 +1,11 @@
 {
     "channels": {
         "stable": {
-            "version": "1.1.1",
-            "notes": "Send test report emails without the hourly limit, plus a small account-menu polish.",
+            "version": "1.2.0",
+            "notes": "Install updates from Settings when your host allows it \u2014 Download update remains as a fallback.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
-                "update": "https://www.doobox.co.uk/sparkle/doostats/Updates/DooStats-Update-1.1.1.zip"
+                "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
             }
         }
     }
