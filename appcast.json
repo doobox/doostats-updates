@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.1",
-            "notes": "Clearer Updates card with a single action, plus an account-menu hover fix.",
+            "version": "1.2.2",
+            "notes": "Compare previous traffic on Daily traffic, clearer Performance, and smoother Settings saves.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
