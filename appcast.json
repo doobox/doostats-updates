@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.3",
-            "notes": "Relative tracker snippets (safer with www) and a stable always-latest install zip.",
+            "version": "1.2.4",
+            "notes": "Hide dashboard cards you do not need, and Install path stays auto-detected.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
