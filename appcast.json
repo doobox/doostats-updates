@@ -2,7 +2,7 @@
     "channels": {
         "stable": {
             "version": "1.2.6",
-            "notes": "Optional SMTP for weekly reports when the host does not support PHP mail.",
+            "notes": "Optional SMTP for weekly reports when the host does not support PHP mail (MIME rendering fix).",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
