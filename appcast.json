@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.5",
-            "notes": "Custom brand colour picker, and two-column dashboard card checkboxes on desktop.",
+            "version": "1.2.6",
+            "notes": "Optional SMTP for weekly reports when the host does not support PHP mail.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
