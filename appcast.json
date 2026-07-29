@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.7",
-            "notes": "Settings UI tweaks after adding SMTP mail.",
+            "version": "1.2.8",
+            "notes": "Dashboard update banner with remind-later snooze; View update refreshes the live feed.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
