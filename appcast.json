@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.8",
-            "notes": "Dashboard update banner with remind-later snooze; View update refreshes the live feed.",
+            "version": "1.2.9",
+            "notes": "Optional automatic update checks; redesigned white-label weekly report email with light/dark theme.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
