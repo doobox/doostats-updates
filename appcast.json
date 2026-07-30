@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.11",
-            "notes": "Show/hide toggle for the SMTP password field in Settings \u2192 Reports.",
+            "version": "1.2.12",
+            "notes": "Pulse snippets: show visitors online, visits today, or this week on your site.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
