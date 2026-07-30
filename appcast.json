@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.9",
-            "notes": "Optional automatic update checks; redesigned white-label weekly report email with light/dark theme.",
+            "version": "1.2.10",
+            "notes": "SMTP passwords encrypted in config; Settings shows a masked password when one is already saved.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
