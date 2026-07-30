@@ -1,8 +1,8 @@
 {
     "channels": {
         "stable": {
-            "version": "1.2.10",
-            "notes": "SMTP passwords encrypted in config; Settings shows a masked password when one is already saved.",
+            "version": "1.2.11",
+            "notes": "Show/hide toggle for the SMTP password field in Settings \u2192 Reports.",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
