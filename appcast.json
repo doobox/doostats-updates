@@ -2,7 +2,7 @@
     "channels": {
         "stable": {
             "version": "1.2.13",
-            "notes": "German dates use the day-ordinal dot (e.g. 31. Juli 2026).",
+            "notes": "Dates follow each UI language\u2019s local order and punctuation (day-ordinal dots, year-first locales, and more).",
             "changelog_url": "https://www.doobox.co.uk/sparkle/doostats/Updates/CHANGELOG.html",
             "downloads": {
                 "update": "https://raw.githubusercontent.com/doobox/doostats-updates/main/DooStats-Update.zip"
